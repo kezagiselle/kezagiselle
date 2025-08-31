@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3178C6&height=200&section=header&text=Hi%20there!%20I'm%20Keza%20Gisele%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Coding Cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVrd3g4OWVnNGV3YndnaXJicWVvZGpud2hydDdpN2YzOGFyN25vZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
 
 
 
