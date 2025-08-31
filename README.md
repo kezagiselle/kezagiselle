@@ -8,7 +8,7 @@
 
 ## About Me 🚀
 
-Hi there! I’m a passionate **Full-Stack Developer** with expertise in **JavaScript (React, Node.js), Python (Django, Flask), and Docker/Kubernetes, SpringBoot**. I thrive on solving complex problems, diving into new technologies, and collaborating with diverse teams to build innovative solutions.
+Hi there! I’m a passionate **Full-Stack Developer** with expertise in **JavaScript (React, Node.js), Python (Django), and Docker/Kubernetes, SpringBoot**. I thrive on solving complex problems, diving into new technologies, and collaborating with diverse teams to build innovative solutions.
 
 -  🌱 Currently learning: **GraphQL, Java, and advanced TypeScript patterns**
 -  🔭 Working on: **a voice-controlled home automation dashboard and a personal finance tracker**
