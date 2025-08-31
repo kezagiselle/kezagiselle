@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3178C6&height=200&section=header&text=Hi%20there!%20I'm%20Keza%20Gisele%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 
-![Coding Cat](https://github.com/user-attachments/assets/2274f21f-ce2a-4fd5-84c0-a0253e767666)
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 
 ## About Me 🚀
